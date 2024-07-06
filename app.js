@@ -15,7 +15,7 @@ app.get('/markprocess',(req,res) => {
         res.send('first division')
     }
 
-    else if(total>){
+    else if(total>86){
         res.send('first division')
     }
 
